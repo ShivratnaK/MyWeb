@@ -1,11 +1,11 @@
-body{
+body{margin-left:0;
+     margin-right:0;
     text-align: center;
     margin-top: 0rem;      ;
     
 }
 
 .tc{
-    
     margin:0;
     background-color: #CDF0EA;
 }
