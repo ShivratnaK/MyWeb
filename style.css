@@ -1,0 +1,117 @@
+body{
+    text-align: center;
+    margin-top: 0rem;      ;
+    
+}
+
+.tc{
+    
+    margin:0;
+    background-color: #CDF0EA;
+}
+h1{
+    margin-top: 0rem;
+    font-size: 6.25rem;
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+    margin-bottom: 0;
+    
+}
+h2{
+    font-family: 'Nova Mono', monospace;
+    color: #B73E3E;
+}
+
+h3{margin-top: 0px;
+    margin-bottom: 0.625rem;
+    font-size: 1.5rem;
+    font-family: 'Pacifico', cursive;
+    font-weight: lighter;
+    color: #E26868;
+}
+.pic{
+    padding-top: 1.5rem;
+    position: relative;
+    width: 15.625rem;
+    border-radius: 100%;
+    margin-bottom: 1.5rem;
+}
+.myname{
+color: #628E90;
+}
+p{  font-size: 1.25rem;
+    font-family: 'Dancing Script', cursive; 
+}
+
+.skillrow{
+    width: 50%;
+    margin: 0 auto 0 auto;
+    text-align: left;
+    line-height: 2;
+    padding-bottom: 6.25rem;
+}
+
+.webpic{
+    width: 25%;
+    float: left;
+    margin-right: 1.25rem;
+}
+.chesspic{
+    width: 25%;
+    float: right;
+    margin-left: 1.25rem;
+}
+
+.javapic{
+    width: 25%;
+    float: left;
+    margin-right: 1.25rem;
+
+}
+
+.androidpic{
+    width: 25%;
+    float: right;
+    margin-left: 1.25rem;
+
+}
+.bc img{
+    width: 3.125rem;
+}
+.in{
+    border-style:dotted;
+    border-top-style: none;
+ 
+ color:#B73E3E;      
+ border-width: 0.313rem ;
+ width: 15%;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 26;
+    -moz-border-radius: 26;
+    border-radius: 26px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #64ccb4;
+    background-image: -webkit-linear-gradient(top, #64ccb4, #3498db);
+    background-image: -moz-linear-gradient(top, #64ccb4, #3498db);
+    background-image: -ms-linear-gradient(top, #64ccb4, #3498db);
+    background-image: -o-linear-gradient(top, #64ccb4, #3498db);
+    background-image: linear-gradient(to bottom, #64ccb4, #3498db);
+    text-decoration: none;
+  }
+  .contact{
+    margin: 1.25rem auto 1.25rem auto;
+  }
