@@ -90,7 +90,7 @@ p{  font-size: 1.25rem;
  border-width: 0.313rem ;
  width: 20%;
 }
-.btn {
+.btn:hover {
     background: #00ffcc;
     background-image: -webkit-linear-gradient(top, #00ffcc, #fff203);
     background-image: -moz-linear-gradient(top, #00ffcc, #fff203);
@@ -107,7 +107,7 @@ p{  font-size: 1.25rem;
     text-decoration: none;
   }
   
-  .btn:hover {
+  .btn {
     background: #b61ad9;
     background-image: -webkit-linear-gradient(top, #b61ad9, #fc000d);
     background-image: -moz-linear-gradient(top, #b61ad9, #fc000d);
